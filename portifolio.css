@@ -1,0 +1,24 @@
+.navigation-link{
+    border: 2px solid transparent;
+}
+.navigation-link:hover{
+    text-decoration: none;
+    border-bottom: 2px solid red;
+}
+.main-container{
+    height: 100%;
+    padding-top: 30px;
+}
+.main_row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main_row h1{
+    font-size: 80px;
+}
+
+#About{
+    background-color: aqua;
+    border-radius: 0.5rem;
+}
